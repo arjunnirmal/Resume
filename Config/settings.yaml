@@ -1,0 +1,2 @@
+output_file: application_tracker.csv
+fields: ["Company", "Role", "Status", "Date"]
